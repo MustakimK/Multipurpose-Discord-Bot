@@ -7,8 +7,5 @@
     "got": "^14.0.0",
     "weather-js": "^2.0.0",
     "ytdl-core": "^4.11.5"
-  },
-  "scripts": {
-    "start": "node index.js"
   }
 }
